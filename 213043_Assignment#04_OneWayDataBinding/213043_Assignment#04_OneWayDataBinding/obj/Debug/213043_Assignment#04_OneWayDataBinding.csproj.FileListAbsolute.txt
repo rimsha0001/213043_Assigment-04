@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\bin\Debug\213043_Assignment#04_OneWayDataBinding.exe.config
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\bin\Debug\213043_Assignment#04_OneWayDataBinding.exe
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\bin\Debug\213043_Assignment#04_OneWayDataBinding.pdb
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding_MarkupCompile.cache
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding_MarkupCompile.lref
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding.g.resources
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\_213043_Assignment_04_OneWayDataBinding.Properties.Resources.resources
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding.exe
+C:\Users\HP\source\repos\213043_Assignment#04_OneWayDataBinding\213043_Assignment#04_OneWayDataBinding\obj\Debug\213043_Assignment#04_OneWayDataBinding.pdb
